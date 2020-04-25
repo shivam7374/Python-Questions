@@ -72,12 +72,12 @@ its input and print the numbers that are divisible by 5 in a comma separated seq
 <br>13. Write a Python program to print alphabet pattern 'R'.
 <br>Expected Output:
 <br>****
-<br>*   *
-<br>*   *
+<br>*___*
+<br>*___*
 <br>****
 <br>**
-<br>* *
-<br>*  *
+<br>*_*
+<br>*__*
 <br>14. Write a Python program to get the number of occurrences of a specified element in an array.
 <br>15. Write a Python program to remove a specified item using the index from an array.
 <br>16. Write a Python program to convert an array to an ordinary list with the same items.
