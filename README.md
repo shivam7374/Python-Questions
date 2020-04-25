@@ -71,13 +71,13 @@ Expected Output : 1010
 12. Write a Python program to insert a new item before the second element in an existing array.
 13. Write a Python program to print alphabet pattern 'R'.
 Expected Output:
-/****
-/* /*
-/* /*
-/****
-/* /*
-/* /*
-/* /*
+****
+*   *
+*   *
+****
+**
+* *
+*  *
 14. Write a Python program to get the number of occurrences of a specified element in an array.
 15. Write a Python program to remove a specified item using the index from an array.
 16. Write a Python program to convert an array to an ordinary list with the same items.
