@@ -72,7 +72,7 @@ its input and print the numbers that are divisible by 5 in a comma separated seq
 <br>13. Write a Python program to print alphabet pattern 'R'.
 <br>Expected Output:
 <br>****
-<br>* <\t> *
+<br>*   *
 <br>*   *
 <br>****
 <br>**
