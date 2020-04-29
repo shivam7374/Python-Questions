@@ -169,7 +169,9 @@ words. Print back to the user the same string, except with the words in backward
 name My; shown back to me.
 <br>18. Define a function reverse() that computes the reversal of a string. 
 <br>For example, reverse(“I am testing”) should return the string ”gnitset ma I”.
-<br>
+<br>19. Write a Python program to find the available built-in modules. 
+<br>Example: math, random, uuid, sys, syslog etc. 
+
 
 -------------------------------------------------------------------------------------------------------------
 
