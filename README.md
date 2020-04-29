@@ -179,6 +179,15 @@ name My; shown back to me.
 dates.
 <br>Example: Printing random date between 1/1/2016 and 3/23/2018
 <br> Random Date = 02/25/2016
+<br>22. Generate three random password string of length 10 with special characters, letters, and digits by 
+using python modules (random and string).
+<br>Example: First Random String: yrjmcyi^VS
+<br> Second Random String: |}Hd]!^>~l
+<br> Third Random String: 3^a93@x=|Z
+<br>23. Write a python code using module “uuid” to generate universally unique secure randon string id of 
+length 8.
+<br>Example: random string using a UUID module is: 9C8E13FF
+<br> random string using a UUID module is: 9cb3561d
 <br>
 
 -------------------------------------------------------------------------------------------------------------
