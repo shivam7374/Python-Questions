@@ -136,4 +136,7 @@ Assignment 3
 <br>7. Write a Python program to count the elements in a list until an element is a tuple.
 <br>Example: Input: [10,20,30,(10,20),40]
 <br> Output: 3
+<br>8. Write a Python program to find maximum and the minimum value in a set.
+<br>Example: Input: ([5, 10, 3, 15, 2, 20])
+<br>Output: Maximum value: 20, Minimum value: 2
 <br>
