@@ -117,4 +117,10 @@ Assignment 3
 <br>Sample lists: ['Class-V', 'Class-VI', 'Class-VII', 'Class-VIII'], [1, 2, 2, 3]
 <br>Expected Output: defaultdict(<class 'set'>, {'Class-VII': {2}, 'Class-VI': {2}, 'Class-VIII': {3}, 
 'Class-V': {1}})
-<br>
+<br>3. Write a Python program to replace dictionary values with their sum.
+<br>Example: Input: {'id' : 1, 'subject' : 'math', 'V' : 70, 'VI': 82},
+ {'id' : 2, 'subject' : 'math', 'V' : 73, 'VI' : 74},
+ {'id' : 3, 'subject' : 'math', 'V' : 75, 'VI' : 86}
+ <br>Output: [{'subject': 'math', 'id': 1, 'V+VI': 76.0}, 
+ {'subject': 'math', 'id': 2, 'V+VI': 73.5} 
+ {'subject': 'math', 'id': 3, 'V+VI': 80.5}]
