@@ -130,3 +130,7 @@ Assignment 3
 <br>5. Write a Python program to remove an empty tuple(s) from a list of tuples.
 <br>Sample data: [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
 <br>Expected output: [('',), ('a', 'b'), ('a', 'b', 'c'), 'd'] 
+<br>6. Write a Python program to convert a list of tuples into a dictionary.
+<br>Example: Input: ((2, "w"),(3, "r"))
+<br> Output: {'w': 2, 'r': 3}
+<br>
