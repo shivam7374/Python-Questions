@@ -153,6 +153,9 @@ Assignment 3
 <br>Example: Enter the sorted list of numbers: 3 5 10 12 15 20
 <br> The number to search for: 12
  <br>12 was found at index 3.
+<br>14. Write a Python program to sort a list of elements using the bubble sort algorithm.
+<br>Example: Sample Data: [14, 46, 43, 27, 57, 41, 45, 21, 70]
+<br>Expected Result: [14, 21, 27, 41, 43, 45, 46, 57, 70]
 <br>
 
 -------------------------------------------------------------------------------------------------------------
