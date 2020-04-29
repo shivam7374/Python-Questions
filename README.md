@@ -175,6 +175,10 @@ name My; shown back to me.
 <br>Example: Memory size of 'one' = 52 bytes
 <br> Memory size of 'four' = 53 bytes
 <br> Memory size of 'three' = 54 bytes
+<br>21. Using the module random and time in python generate a random date between given start and end 
+dates.
+<br>Example: Printing random date between 1/1/2016 and 3/23/2018
+<br> Random Date = 02/25/2016
 <br>
 
 -------------------------------------------------------------------------------------------------------------
