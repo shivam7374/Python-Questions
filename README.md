@@ -127,4 +127,6 @@ Assignment 3
 <br>4. Write a Python program to sort a tuple by its float element. 
 <br>Sample data: [('item1', '12.20'), ('item2', '15.10'), ('item3', '24.5')]
 <br>Expected Output: [('item3', '24.5'), ('item2', '15.10'), ('item1', '12.20')] 
-<br>
+<br>5. Write a Python program to remove an empty tuple(s) from a list of tuples.
+<br>Sample data: [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
+<br>Expected output: [('',), ('a', 'b'), ('a', 'b', 'c'), 'd'] 
