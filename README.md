@@ -113,4 +113,8 @@ Assignment 3
 <br>1. Write a Python program to match key values in two dictionaries.
 <br>Sample dictionary: {'key1': 1, 'key2': 3, 'key3': 2}, {'key1': 1, 'key2': 2}
 <br>Expected output: key1: 1 is present in both x and y.
+<br>2. Write a Python program to create a dictionary from two lists without losing duplicate values. 
+<br>Sample lists: ['Class-V', 'Class-VI', 'Class-VII', 'Class-VIII'], [1, 2, 2, 3]
+<br>Expected Output: defaultdict(<class 'set'>, {'Class-VII': {2}, 'Class-VI': {2}, 'Class-VIII': {3}, 
+'Class-V': {1}})
 <br>
