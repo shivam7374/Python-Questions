@@ -133,4 +133,7 @@ Assignment 3
 <br>6. Write a Python program to convert a list of tuples into a dictionary.
 <br>Example: Input: ((2, "w"),(3, "r"))
 <br> Output: {'w': 2, 'r': 3}
+<br>7. Write a Python program to count the elements in a list until an element is a tuple.
+<br>Example: Input: [10,20,30,(10,20),40]
+<br> Output: 3
 <br>
