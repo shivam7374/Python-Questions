@@ -146,8 +146,10 @@ Assignment 3
 <br>10. Write a Python program to make a chain of function decorators (bold, italic, underline etc.).
 <br>Example: Input: hello world 
 <br>Output: hello world
+<br>12. Write a Python program of recursion list sum. 
+<br>Test Data: [1, 2, [3,4], [5,6]]
+<br>Expected Result: 21
 <br>
-
 
 -------------------------------------------------------------------------------------------------------------
 
