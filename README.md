@@ -162,6 +162,11 @@ Assignment 3
 <br>16. Write a Python program to sort a list of elements using the merge sort algorithm.
 <br>Example: Split Sample Data: [14, 46, 43, 27, 57, 41, 45, 21, 70]
 <br>Merge and Sort(Expected Result): [14, 21, 27, 41, 43, 45, 46, 57, 70] 
+<br>17. Write a Python program using functions that asks the user for a long string containing multiple 
+words. Print back to the user the same string, except with the words in backwards order. 
+<br>For example, say I type the string: My name is Michele; 
+<br>Then I would see the string: Michele is 
+name My; shown back to me.
 <br>
 
 -------------------------------------------------------------------------------------------------------------
