@@ -171,7 +171,11 @@ name My; shown back to me.
 <br>For example, reverse(“I am testing”) should return the string ”gnitset ma I”.
 <br>19. Write a Python program to find the available built-in modules. 
 <br>Example: math, random, uuid, sys, syslog etc. 
-
+<br>20. 12Write a Python program to get the size of an object in bytes by using module “sys”.
+<br>Example: Memory size of 'one' = 52 bytes
+<br> Memory size of 'four' = 53 bytes
+<br> Memory size of 'three' = 54 bytes
+<br>
 
 -------------------------------------------------------------------------------------------------------------
 
