@@ -108,3 +108,5 @@ its input and print the numbers that are divisible by 5 in a comma separated seq
 <br>Sample Output : ['p1', 'q1', 'p2', 'q2', 'p3', 'q3', 'p4', 'q4', 'p5', 'q5']
 
 -------------------------------------------------------------------------------------------------------------
+
+Assignment 2
