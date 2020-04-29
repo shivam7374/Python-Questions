@@ -149,6 +149,10 @@ Assignment 3
 <br>12. Write a Python program of recursion list sum. 
 <br>Test Data: [1, 2, [3,4], [5,6]]
 <br>Expected Result: 21
+<br>13. Write a Python program for binary search.
+<br>Example: Enter the sorted list of numbers: 3 5 10 12 15 20
+<br> The number to search for: 12
+ <br>12 was found at index 3.
 <br>
 
 -------------------------------------------------------------------------------------------------------------
