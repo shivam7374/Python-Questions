@@ -188,6 +188,13 @@ using python modules (random and string).
 length 8.
 <br>Example: random string using a UUID module is: 9C8E13FF
 <br> random string using a UUID module is: 9cb3561d
+<br>24. Write a python code using module “random” to generate a 100 Lottery tickets and pick two lucky 
+tickets from it as a winner.
+<br>Note: You must adhere to the following conditions:
+<br> 1. Lottery number must be 10 digits long.
+ <br>2. All 100 ticket number must be unique.
+<br>Example: Creating 100 random lottery tickets
+ <br>Lucky 2 lottery tickets are [7184805696, 7380986204]
 <br>
 
 -------------------------------------------------------------------------------------------------------------
