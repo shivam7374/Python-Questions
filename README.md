@@ -124,3 +124,7 @@ Assignment 3
  <br>Output: [{'subject': 'math', 'id': 1, 'V+VI': 76.0}, 
  {'subject': 'math', 'id': 2, 'V+VI': 73.5} 
  {'subject': 'math', 'id': 3, 'V+VI': 80.5}]
+<br>4. Write a Python program to sort a tuple by its float element. 
+<br>Sample data: [('item1', '12.20'), ('item2', '15.10'), ('item3', '24.5')]
+<br>Expected Output: [('item3', '24.5'), ('item2', '15.10'), ('item1', '12.20')] 
+<br>
