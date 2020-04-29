@@ -143,4 +143,7 @@ Assignment 3
 <br>Example: Input: set(["green", "blue"]), set(["blue", "yellow"])
  <br>Output: Difference: {'blue'}, {'green'}, Union: {'yellow', 'green', 'blue'} 
  Intersection: {'blue'}
+<br>10. Write a Python program to make a chain of function decorators (bold, italic, underline etc.).
+<br>Example: Input: hello world 
+<br>Output: hello world
 <br>
