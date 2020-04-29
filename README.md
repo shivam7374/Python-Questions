@@ -139,4 +139,8 @@ Assignment 3
 <br>8. Write a Python program to find maximum and the minimum value in a set.
 <br>Example: Input: ([5, 10, 3, 15, 2, 20])
 <br>Output: Maximum value: 20, Minimum value: 2
+<br>9. Write a Python program to create set difference, union, and intersection of sets.
+<br>Example: Input: set(["green", "blue"]), set(["blue", "yellow"])
+ <br>Output: Difference: {'blue'}, {'green'}, Union: {'yellow', 'green', 'blue'} 
+ Intersection: {'blue'}
 <br>
